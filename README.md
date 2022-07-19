@@ -1,5 +1,5 @@
 ![Screenshot 2022-07-19 221736](https://user-images.githubusercontent.com/91816790/179849283-fa39148b-b189-413f-9177-55dc8fa6e285.png)
-![Screenshot 2022-07-19 221724](https://user-images.githubusercontent.com/91816790/179849695-6a![Screenshot 2022-07-19 221712](https://user-images.githubusercontent.com/91816790/179849749-8b540123-a1cd-4e43-a1e3-01eb2e7d4fa7.png)
-5786b5-b570-4ca0-a55b-b1fbd81a5a16.png)
+![Screenshot 2022-07-19 221724](https://user-images.githubusercontent.com/91816790/179850170-5f478802-f4ea-4e31-bdc8-3211a3dcc209.png)
+![Screenshot 2022-07-19 221712](https://user-images.githubusercontent.com/91816790/179850207-f37937b7-fff2-4d66-90e1-7ac3bd262dfb.png)
 ![Screenshot 2022-07-19 221700](https://user-images.githubusercontent.com/91816790/179849798-eae88e49-6741-4c17-81e2-bd89177eb5b2.png)
 ![Screenshot 2022-07-19 221647](https://user-images.githubusercontent.com/91816790/179849841-ce09618d-2845-4374-ba89-b7d7c84d7b4e.png)
