@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/t1.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 2,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/t2.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 3,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/t3.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 4,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/t4.png",
+    "quantityInStock": 100
+  },
+  {
+    "id": 5,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/t5.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 6,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/t6.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 7,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/t7.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 8,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/05.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 9,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/01.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 10,
+    "name": "Seventy Formal",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - Black.",
+    "price": 3000,
+    "type": "Bedl",
+    "brand": "Seventy",
+    "pictureUrl": "/images/products/f2.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 11,
+    "name": "Swtshirtozo",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 600,
+    "type": "SweT-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/f4.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 12,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/f10.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 13,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/f8.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 14,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/f7.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 15,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": " /images/products/f5.png",
+    "quantityInStock": 50
+  },
+  {
+    "id": 16,
+    "name": "Zara T-Shirt",
+    "description": "Zara Industry- all sizes available - made in turkish- cotton - yellow.",
+    "price": 300,
+    "type": "T-Shirts",
+    "brand": "Zara",
+    "pictureUrl": "/images/products/02.png",
+    "quantityInStock": 50
+  }
+]
